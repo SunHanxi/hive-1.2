@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="hive-exec" />
+        <module name="hive-hcatalog-server-extensions" />
+        <module name="hive-common" />
+        <module name="hive-shims-0.23" />
+        <module name="hive-shims-scheduler" />
+        <module name="hive-serde" />
+        <module name="hive-accumulo-handler" />
+        <module name="hive-hcatalog-core" />
+        <module name="hive-shims-0.20S" />
+        <module name="hive-hcatalog-pig-adapter" />
+        <module name="hive-shims-common" />
+        <module name="hive-hbase-handler" />
+        <module name="hive-contrib" />
+        <module name="hive-ant" />
+        <module name="hive-hcatalog-streaming" />
+        <module name="hive-metastore" />
+        <module name="spark-client" />
+        <module name="hive-shims" />
+        <module name="hive-cli" />
+        <module name="hive-webhcat-java-client" />
+        <module name="hive-service" />
+        <module name="hive-hwi" />
+        <module name="hive-jdbc" />
+        <module name="hive-webhcat" />
+        <module name="hive-beeline" />
+        <module name="hive-testutils" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
